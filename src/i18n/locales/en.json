@@ -1,0 +1,202 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "services": "Services",
+    "blog": "Blog",
+    "contact": "Contact",
+    "hireMe": "Hire Me"
+  },
+  "home": {
+    "greeting": "Hi, I'm",
+    "name": "Asilbek",
+    "title": "Full-Stack Developer",
+    "description": "Full-Stack Developer specializing in scalable web platforms and Telegram bot solutions. Delivered projects serving 70,000+ users across education, tourism, and fintech sectors, including a payment integration system processing $10,000+ in monthly transactions. Proficient in JavaScript, PHP, Python, and Django, with a strong focus on performance, security, and clean architecture.",
+    "viewPortfolio": "View Portfolio",
+    "downloadCV": "Download CV",
+    "donate": "Donate",
+    "availableForHire": "Available for Hire",
+    "trustedBy": "Trusted by:",
+    "techStack": "My Tech Stack",
+    "technologiesILove": "Technologies I love working with",
+    "featuredProjects": "Featured Projects",
+    "someRecentWork": "Some of my recent work",
+    "journeyTitle": "By the Numbers",
+    "journeyDescription": "A quick overview of my journey.",
+    "subtitle": "I build scalable web applications using Laravel, React, and modern cloud infrastructure.",
+    "viewAllBlog": "View All Articles",
+    "trustedSkills": "Trusted Technologies"
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "subtitle": "Technologies I use every day to build production-grade applications",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "database": "Database",
+    "devops": "DevOps & Tools"
+  },
+  "testimonials": {
+    "badge": "// client feedback",
+    "title": "What Clients Say",
+    "subtitle": "Feedback from people I've worked with on real projects"
+  },
+  "templates": {
+    "badge": "// my saas product",
+    "title": "asilmedia.org",
+    "subtitle": "A premium web template marketplace for businesses",
+    "description": "I built asilmedia.org from scratch using Laravel and React — a SaaS platform where professional website templates optimized for the Uzbek market can be purchased.",
+    "cta": "Visit asilmedia.org",
+    "stat1": "1000+",
+    "stat1label": "Templates",
+    "stat2": "Laravel + React",
+    "stat2label": "Technology",
+    "stat3": "SaaS",
+    "stat3label": "Business Model",
+    "feature1": "Professional template marketplace",
+    "feature2": "Built from scratch with Laravel and React",
+    "feature3": "E-commerce and payments ready",
+    "feature4": "SEO optimized for the Uzbek market"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Who am I?",
+    "description": "My name is Asilbek Abdunabiyev, a first-year Economics student at Samarkand State University. I specialize in full-stack development and love solving real problems through code.",
+    "subDescription": "I was born and raised in Samarkand, Uzbekistan. I believe in continuous learning and try to align my path with Islamic values and discipline.",
+    "journey": "My Journey",
+    "journeyDescription": "The path that brought me here",
+    "whatMakesDifferent": "What makes me different",
+    "keyHighlights": "Key highlights along my path",
+    "technicalSkills": "Technical Skills",
+    "beyondCoding": "Beyond Coding",
+    "locationInfo": "SamSU Student",
+    "experienceInfo": "4+ Years of Experience",
+    "codingPurpose": "Solving through code, driven by purpose",
+    "advanced": "Advanced"
+  },
+  "portfolio": {
+    "title": "My Portfolio",
+    "description": "A collection of projects showcasing my full-stack development skills, from simple websites to complex SaaS platforms.",
+    "likeWhatYouSee": "Like what you see?",
+    "startProject": "Start a Project",
+    "letsDiscuss": "Let's discuss your next project and bring it to life.",
+    "featured": "Featured",
+    "viewProject": "View Project",
+    "liveDemo": "Live Demo",
+    "github": "GitHub",
+    "noProjects": "No projects found for this category",
+    "tryDifferent": "Try selecting a different filter",
+    "viewAllProjects": "View All Projects",
+    "categories": {
+      "all": "All",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "fullstack": "Full-Stack"
+    }
+  },
+  "services": {
+    "title": "My Services",
+    "description": "Professional web development services tailored to bring your ideas to life. From concept to launch, I'll help you every step of the way.",
+    "howIWorkTitle": "How I Work",
+    "howIWorkDescription": "My proven process that delivers great results",
+    "getStarted": "Get Started",
+    "startingFrom": "Starting From",
+    "price": "Price",
+    "requestService": "Request This Service",
+    "categories": {
+      "all": "All Services",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "fullstack": "Full-Stack",
+      "special": "Special"
+    },
+    "form": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "service": "Selected Service",
+      "message": "Additional Message (optional)",
+      "submit": "Send Request",
+      "success": "Thank you! Your request has been received.",
+      "error": "Oops! Something went wrong. Please try again."
+    }
+  },
+  "blog": {
+    "title": "My Blog",
+    "description": "I share what I've learned, what I've built, and what I believe in — from technical guides to career insights and personal reflections on the developer journey.",
+    "featured": "Featured",
+    "readMore": "Read More",
+    "backToBlog": "Back to Blog"
+  },
+  "contact": {
+    "title": "Let's Work Together",
+    "description": "Thinking about a project or just want to say hi? I'd love to hear from you. Let's create something amazing together.",
+    "sendMessage": "Send Me a Message",
+    "yourName": "Your Name",
+    "emailAddress": "Email Address",
+    "subject": "Subject",
+    "message": "Message",
+    "sendMessageBtn": "Send Message",
+    "namePlaceholder": "Enter your full name",
+    "emailPlaceholder": "your-email@example.com",
+    "subjectPlaceholder": "What's this about?",
+    "messagePlaceholder": "Tell me about your project...",
+    "getInTouch": "Get in Touch",
+    "getInTouchDesc": "I'm always excited to work on new projects and collaborate with amazing people. Whether you have a project in mind or just want to chat, feel free to reach out!",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "followMe": "Follow Me",
+    "quickResponse": "Quick Response Guaranteed",
+    "quickResponseDesc": "I usually respond to all inquiries within 24 hours. For urgent projects, feel free to call or message me directly.",
+    "basedIn": "Based in Samarkand",
+    "basedInDesc": "I'm based in Samarkand, a historic city of Uzbekistan. I'm open to remote work worldwide and in-person meetings in Samarkand."
+  },
+  "seo": {
+    "home": {
+      "title": "Asilbek Abdunabiyev | Full-Stack Developer (Laravel & React)",
+      "description": "Portfolio website of Asilbek Abdunabiyev, a Full-Stack developer from Samarkand. Specializing in building scalable SaaS platforms with Laravel and React.",
+      "keywords": "Asilbek Abdunabiyev, Full-Stack Developer, Laravel developer, React developer, web development Uzbekistan, Samarkand developer, freelance developer"
+    },
+    "about": {
+      "title": "About Asilbek | Economics Specialist in Uzbekistan",
+      "description": "Learn about Asilbek Abdunabiyev's journey from a SamSU student to building SaaS platforms like asilmedia.org and becoming a Junior Web Developer.",
+      "keywords": "About Asilbek, Economics Samarkand, SamSU student, Laravel expert, IT mentor Uzbekistan"
+    },
+    "portfolio": {
+      "title": "Projects and Portfolio | asilbek dev",
+      "description": "Browse custom web applications, SaaS platforms, and dynamic websites built by Asilbek using React, Tailwind CSS, PHP, and Laravel.",
+      "keywords": "full-stack portfolio, web application projects, SaaS developer, Laravel projects, React applications, custom website development"
+    },
+    "services": {
+      "title": "Web Development Services | UI/UX, APIs and Full-Stack Applications",
+      "description": "Professional freelance web development services: UI/UX design, custom REST APIs, chatbot development, and complete Full-Stack web application development.",
+      "keywords": "web development services, hire freelance developer, API development, UI/UX design, chatbot developer, full-stack application development"
+    },
+    "contact": {
+      "title": "Contact | Hire a Full-Stack Developer",
+      "description": "Want to build a digital product? Get in touch with Asilbek to discuss your next web project. Available for remote work as well.",
+      "keywords": "hire a developer, contact software engineer, freelance web developer Uzbekistan, remote full-stack developer"
+    },
+    "blog": {
+      "title": "Developer Blog | IT Articles and Tutorials by Asilbek",
+      "description": "Read Asilbek Abdunabiyev's articles, tutorials, and thoughts on full-stack development, IT life, and more.",
+      "keywords": "developer blog, programming tutorials, Laravel tips, React tutorials, Economics blog"
+    },
+    "notFound": {
+      "title": "Page Not Found | asilbekdev.uz",
+      "heading": "Page Not Found",
+      "description": "The page you're looking for doesn't exist or has been moved to a new address.",
+      "goHome": "Go Home",
+      "viewPortfolio": "View Portfolio",
+      "errorCode": "Error"
+    }
+  },
+  "footer": {
+    "description": "Bringing your ideas to life through clean, modern code and design.",
+    "navigation": "Navigation",
+    "resources": "Resources",
+    "contact": "Contact",
+    "copyright": "asilbekdev. All rights reserved."
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "nav": {
+    "home": "Asosiy",
+    "about": "Men haqimda",
+    "portfolio": "Portfel",
+    "services": "Xizmatlar",
+    "blog": "Blog",
+    "contact": "Aloqa",
+    "hireMe": "Meni yollash"
+  },
+ "home": {
+    "greeting": "Salom, men",
+    "name": "Asilbek",
+    "title": "Full-Stack Dasturchi",
+    "description": "Full-Stack Developer specializing in scalable web platforms and Telegram bot solutions. Delivered projects serving 70,000+ users across education, tourism, and fintech sectors, including a payment integration system processing $10,000+ in monthly transactions. Proficient in JavaScript, PHP, Python, and Django, with a strong focus on performance, security, and clean architecture.",
+    "viewPortfolio": "Portfelni ko'rish",
+    "downloadCV": "CV yuklab olish",
+    "donate": "Donat qilish",
+    "availableForHire": "Yollash uchun ochiq",
+    "trustedBy": "Ishongan kompaniyalar:",
+    "techStack": "Mening texnologiyalarim",
+    "technologiesILove": "Men ishlashni yaxshi ko'radigan texnologiyalar",
+    "featuredProjects": "Sara loyihalar",
+    "someRecentWork": "Ba'zi so'nggi ishlarim",
+    "journeyTitle": "Raqamlarda",
+    "journeyDescription": "Mening yo'lim haqida qisqacha ma'lumot.",
+    "subtitle": "Laravel, React va zamonaviy cloud infratuzilmasi yordamida kengaytiriladigan veb-ilovalar yarataman.",
+    "viewAllBlog": "Barcha maqolalar",
+    "trustedSkills": "Ishonchli texnologiyalar"
+  },
+  "skills": {
+    "title": "Texnik Ko'nikmalar",
+    "subtitle": "Har kuni ishlab chiqarish darajasidagi ilovalar yaratish uchun foydalanadigan texnologiyalar",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "database": "Ma'lumotlar Bazasi",
+    "devops": "DevOps va Vositalar"
+  },
+  "testimonials": {
+    "badge": "// mijozlar fikri",
+    "title": "Mijozlar Nima Deydi",
+    "subtitle": "Haqiqiy loyihalarda birga ishlagan odamlarning fikrlari"
+  },
+  "templates": {
+    "badge": "// mening saas mahsulotim",
+    "title": "asilmedia.org",
+    "subtitle": "Bizneslar uchun premium veb-shablonlar bozori",
+    "description": "asilmedia.org ni Laravel va React yordamida noldan yaratdim — O'zbek bozori uchun optimallashtirilgan professional sayt shablonlarini sotib olish mumkin bo'lgan SaaS platformasi.",
+    "cta": "asilmedia.org ga o'tish",
+    "stat1": "1000+",
+    "stat1label": "Shablonlar",
+    "stat2": "Laravel + React",
+    "stat2label": "Texnologiya",
+    "stat3": "SaaS",
+    "stat3label": "Biznes modeli",
+    "feature1": "Professional shablon bozori",
+    "feature2": "Laravel va React bilan noldan yaratilgan",
+    "feature3": "E-commerce va to'lov tayyor",
+    "feature4": "O'zbek bozori uchun SEO optimallashtirilgan"
+  },
+  "about": {
+    "title": "Men haqimda",
+    "subtitle": "Men kimman?",
+    "description": "Mening ismim Asilbek Abdunabiyev, Samarqand davlat universitetining Iqtisodiyot yo'nalishi 1-bosqich talabasiman. Men full-stack dasturlashga ixtisoslashganman va real muammolarni kod orqali hal qilishni yaxshi ko'raman.",
+    "subDescription": "O'zbekistonda tug'ilganman va Samarqandda o'sganman. Men doimiy izlanishga ishonaman va o'z yo'limni Islomiy qadriyatlar hamda tartib-intizom bilan bog'layman.",
+    "journey": "Mening yo'lim",
+    "journeyDescription": "Meni shu yerga olib kelgan yo'l",
+    "whatMakesDifferent": "Meni nima ajratib turadi",
+    "keyHighlights": "Yo'limdagi asosiy yutuqlar",
+    "technicalSkills": "Texnik ko'nikmalar",
+    "beyondCoding": "Dasturlashdan tashqari",
+    "locationInfo": "SamDU talabasi",
+    "experienceInfo": "4+ Yillik Tajriba",
+    "codingPurpose": "Kod orqali yechim, maqsad bilan boshqariladi",
+    "advanced": "Ilg'or"
+  },
+  "portfolio": {
+    "title": "Mening Portfelim",
+    "description": "Oddiy veb-saytlardan tortib murakkab SaaS platformalarigacha bo'lgan full-stack dasturlash ko'nikmalarimni namoyish etuvchi loyihalar to'plami.",
+    "likeWhatYouSee": "Ko'rganlaringiz yoqdimi?",
+    "startProject": "Loyihani boshlash",
+    "letsDiscuss": "Keyingi loyihangizni muhokama qilaylik va uni amalga oshiraylik.",
+    "featured": "Tavsiya etilgan",
+    "viewProject": "Loyihani ko'rish",
+    "liveDemo": "Jonli namoyish",
+    "github": "GitHub",
+    "noProjects": "Bu toifa uchun loyihalar topilmadi",
+    "tryDifferent": "Boshqa filtrni tanlab ko'ring",
+    "viewAllProjects": "Barcha loyihalarni ko'rish",
+    "categories": {
+      "all": "Barchasi",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "fullstack": "Full-Stack"
+    }
+  },
+  "services": {
+    "title": "Mening Xizmatlarim",
+    "description": "G'oyalaringizni hayotga tatbiq etish uchun moslashtirilgan professional veb-dasturlash xizmatlari. G'oyadan tortib to ishga tushirishgacha, men sizga yordam beraman.",
+    "howIWorkTitle": "Qanday ishlayman",
+    "howIWorkDescription": "Ajoyib natijalar beradigan sinovdan o'tgan jarayonim",
+    "getStarted": "Boshlash",
+    "startingFrom": "Boshlanish narxi",
+    "price": "Narxi",
+    "requestService": "Bu xizmatga buyurtma berish",
+    "categories": {
+      "all": "Barcha Xizmatlar",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "fullstack": "Full-Stack",
+      "special": "Maxsus"
+    },
+    "form": {
+      "name": "Ismingiz",
+      "email": "Elektron pochta",
+      "phone": "Telefon raqam",
+      "service": "Tanlangan xizmat",
+      "message": "Qo'shimcha xabar (ixtiyoriy)",
+      "submit": "So'rov yuborish",
+      "success": "Rahmat! So'rovingiz qabul qilindi.",
+      "error": "Obbo! Nimadir xato ketdi. Iltimos, qaytadan urinib ko'ring."
+    }
+  },
+  "blog": {
+    "title": "Mening Blogim",
+    "description": "O'rganganlarim, yaratganlarim va ishongan narsalarim bilan o'rtoqlashaman. Texnik qo'llanmalardan tortib, kariyera tushunchalari va dasturchi yo'lidagi shaxsiy mulohazalargacha.",
+    "featured": "Tavsiya etilgan",
+    "readMore": "Ko'proq o'qish",
+    "backToBlog": "Blogga qaytish"
+  },
+  "contact": {
+    "title": "Keling, birga ishlaymiz",
+    "description": "Loyiha haqida o'ylayapsizmi yoki shunchaki Salom demoqchimisiz? Sizdan eshitishdan xursand bo'laman. Keling, birgalikda ajoyib narsa yaratamiz.",
+    "sendMessage": "Menga xabar yuboring",
+    "yourName": "Ismingiz",
+    "emailAddress": "Elektron pochta manzili",
+    "subject": "Mavzu",
+    "message": "Xabar",
+    "sendMessageBtn": "Xabar yuborish",
+    "namePlaceholder": "To'liq ismingizni kiriting",
+    "emailPlaceholder": "sizning-pochtangiz@misol.uz",
+    "subjectPlaceholder": "Bu nima haqida?",
+    "messagePlaceholder": "Menga loyihangiz haqida so'zlab bering...",
+    "getInTouch": "Aloqaga chiqing",
+    "getInTouchDesc": "Men har doim yangi loyihalar ustida ishlashdan va ajoyib insonlar bilan hamkorlik qilishdan xursandman. Loyihangiz bo'ladimi yoki shunchaki suhbatlashmoqchimisiz, bemalol aloqaga chiqing!",
+    "email": "Elektron pochta",
+    "phone": "Telefon",
+    "location": "Manzil",
+    "followMe": "Meni kuzating",
+    "quickResponse": "Tezkor javob kafolati",
+    "quickResponseDesc": "Odatda barcha so'rovlarga 24 soat ichida javob beraman. Shoshilinch loyihalar uchun to'g'ridan-to'g'ri qo'ng'iroq qilishingiz yoki xabar yozishingiz mumkin.",
+    "basedIn": "Samarqandda joylashgan",
+    "basedInDesc": "O'zbekistonning tarixiy shahri Samarqandda joylashganman. Butun dunyo bo'ylab masofaviy ishlash va Samarqandda yuzma-yuz uchrashuvlar uchun ochiqman."
+  },
+  "seo": {
+    "home": {
+      "title": "Asilbek Abdunabiyev | Full-Stack Dasturchi (Laravel & React)",
+      "description": "Samarqandlik Full-Stack dasturchi Asilbek Abdunabiyevning portfel sayti. Laravel, React va kengaytiriladigan SaaS platformalarini yaratishga ixtisoslashgan.",
+      "keywords": "Asilbek Abdunabiyev, Full-Stack Dasturchi, Laravel dasturchi, React dasturchi, veb dasturlash O'zbekiston, Samarqand dasturchi, frilans dasturchi"
+    },
+    "about": {
+      "title": "Asilbek haqida | O'zbekistonda Iqtisodiyot Mutaxassisi",
+      "description": "Asilbek Abdunabiyevning SamDU talabaligidan boshlab asilmedia.org kabi SaaS platformalarini yaratish va Junior Web Dasturchi qilishigacha bo'lgan yo'li haqida bilib oling.",
+      "keywords": "Asilbek haqida, Iqtisodiyot Samarqand, SamDU talabasi, Laravel ekspert, IT mentor O'zbekiston"
+    },
+    "portfolio": {
+      "title": "Loyihalar va Portfel | asilbek dev",
+      "description": "Asilbek tomonidan React, Tailwind CSS, PHP va Laravel yordamida yaratilgan maxsus veb-ilovalar, SaaS platformalar va dinamik veb-saytlarni ko'rib chiqing.",
+      "keywords": "full-stack portfel, veb-ilova loyihalari, SaaS dasturchi, Laravel loyihalar, React ilovalar, maxsus veb-sayt yaratish"
+    },
+    "services": {
+      "title": "Veb Dasturlash Xizmatlari | UI/UX, API-lar va Full-Stack Ilovalar",
+      "description": "Professional frilans veb dasturlash xizmatlari: UI/UX dizayn, maxsus REST API-lar, Chatbot yaratish va to'liq Full-Stack veb ilovalarini ishlab chiqish.",
+      "keywords": "veb dasturlash xizmatlari, frilans dasturchi yollash, API yaratish, UI/UX dizayn, chatbot yaratuvchi, full-stack ilova ishlab chiqish"
+    },
+    "contact": {
+      "title": "Bog'lanish | Full-Stack Dasturchini Yollash",
+      "description": "Raqamli mahsulot yaratmoqchimisiz? Keyingi veb-loyiha haqida gaplashish uchun Asilbek bilan bog'laning. Masofaviy ishlash uchun ham tayyor.",
+      "keywords": "dasturchi yollash, dasturiy injiner bilan bog'lanish, frilans veb dasturchi O'zbekiston, masofaviy full-stack dasturchi"
+    },
+    "blog": {
+      "title": "Dasturchi Blogi | Asilbekdan IT Maqolalar va Darsliklar",
+      "description": "Asilbek Abdunabiyevning full-stack dasturlash, Asilbek va IT hayoti haqidagi maqolalari, darsliklari va fikr-mulohazalarini o'qing.",
+      "keywords": "dasturchi blogi, dasturlash darsliklari, Laravel maslahatlar, React darsliklar, Iqtisodiyot blogi"
+    },
+    "notFound": {
+      "title": "Sahifa Topilmadi | asilbekdev.uz",
+      "heading": "Sahifa Topilmadi",
+      "description": "Siz qidirayotgan sahifa mavjud emas yoki yangi manzilga ko'chirilgan.",
+      "goHome": "Bosh sahifaga",
+      "viewPortfolio": "Portfelni ko'rish",
+      "errorCode": "Xato"
+    }
+  },
+  "footer": {
+    "description": "Toza, zamonaviy kod va dizayn orqali g'oyalaringizni hayotga tatbiq etaman.",
+    "navigation": "Navigatsiya",
+    "resources": "Resurslar",
+    "contact": "Aloqa",
+    "copyright": "asilbekdev Barcha huquqlar himoyalangan."
+  }
+}
