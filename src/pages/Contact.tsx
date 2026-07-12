@@ -36,7 +36,7 @@ export const Contact: React.FC = () => {
     e.preventDefault();
     setIsSubmitting(true);
 
-    const API_URL = "/send-message.php";
+    const API_URL = "/api/send-message";
 
     try {
       const response = await fetch(API_URL, {

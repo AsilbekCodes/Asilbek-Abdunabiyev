@@ -117,7 +117,7 @@ export const Services: React.FC = () => {
     e.preventDefault();
     setIsSubmitting(true);
 
-    const API_URL = "/send-message.php";
+    const API_URL = "/api/send-message";
     const lang = i18n.language;
     const messages: Record<string, Record<string, string>> = {
       en: {
