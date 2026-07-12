@@ -23,7 +23,7 @@
     "featuredProjects": "Featured Projects",
     "someRecentWork": "Some of my recent work",
     "journeyTitle": "By the Numbers",
-    "journeyDescription": "A quick overview of my journey.",
+    "journeyDescription": "A brief overview of my journey.",
     "subtitle": "I build scalable web applications using Laravel, React, and modern cloud infrastructure.",
     "viewAllBlog": "View All Articles",
     "trustedSkills": "Trusted Technologies"
@@ -44,9 +44,9 @@
   "templates": {
     "badge": "// my saas product",
     "title": "asilmedia.org",
-    "subtitle": "A premium web template marketplace for businesses",
-    "description": "I built asilmedia.org from scratch using Laravel and React — a SaaS platform where professional website templates optimized for the Uzbek market can be purchased.",
-    "cta": "Visit asilmedia.org",
+    "subtitle": "A premium web templates marketplace for businesses",
+    "description": "I built asilmedia.org from scratch using Laravel and React — a SaaS platform where you can purchase professional website templates optimized for the Uzbek market.",
+    "cta": "Go to asilmedia.org",
     "stat1": "1000+",
     "stat1label": "Templates",
     "stat2": "Laravel + React",
@@ -61,8 +61,8 @@
   "about": {
     "title": "About Me",
     "subtitle": "Who am I?",
-    "description": "My name is Asilbek Abdunabiyev, a first-year Economics student at Samarkand State University. I specialize in full-stack development and love solving real problems through code.",
-    "subDescription": "I was born and raised in Samarkand, Uzbekistan. I believe in continuous learning and try to align my path with Islamic values and discipline.",
+    "description": "My name is Asilbek Abdunabiyev, a 1st-year Economics student at Samarkand State University. I specialize in full-stack development and love solving real-world problems through code.",
+    "subDescription": "I was born in Uzbekistan and raised in Samarkand. I believe in continuous learning and shape my path around Islamic values and discipline.",
     "journey": "My Journey",
     "journeyDescription": "The path that brought me here",
     "whatMakesDifferent": "What makes me different",
@@ -71,7 +71,7 @@
     "beyondCoding": "Beyond Coding",
     "locationInfo": "SamSU Student",
     "experienceInfo": "4+ Years of Experience",
-    "codingPurpose": "Solving through code, driven by purpose",
+    "codingPurpose": "Solving problems through code, driven by purpose",
     "advanced": "Advanced"
   },
   "portfolio": {
@@ -85,7 +85,7 @@
     "liveDemo": "Live Demo",
     "github": "GitHub",
     "noProjects": "No projects found for this category",
-    "tryDifferent": "Try selecting a different filter",
+    "tryDifferent": "Try a different filter",
     "viewAllProjects": "View All Projects",
     "categories": {
       "all": "All",
@@ -100,7 +100,7 @@
     "howIWorkTitle": "How I Work",
     "howIWorkDescription": "My proven process that delivers great results",
     "getStarted": "Get Started",
-    "startingFrom": "Starting From",
+    "startingFrom": "Starting from",
     "price": "Price",
     "requestService": "Request This Service",
     "categories": {
@@ -116,14 +116,14 @@
       "phone": "Phone Number",
       "service": "Selected Service",
       "message": "Additional Message (optional)",
-      "submit": "Send Request",
+      "submit": "Submit Request",
       "success": "Thank you! Your request has been received.",
       "error": "Oops! Something went wrong. Please try again."
     }
   },
   "blog": {
     "title": "My Blog",
-    "description": "I share what I've learned, what I've built, and what I believe in — from technical guides to career insights and personal reflections on the developer journey.",
+    "description": "Sharing what I've learned, built, and believe in — from technical guides to career insights and personal reflections on the developer journey.",
     "featured": "Featured",
     "readMore": "Read More",
     "backToBlog": "Back to Blog"
@@ -139,7 +139,7 @@
     "sendMessageBtn": "Send Message",
     "namePlaceholder": "Enter your full name",
     "emailPlaceholder": "your-email@example.com",
-    "subjectPlaceholder": "What's this about?",
+    "subjectPlaceholder": "What is this about?",
     "messagePlaceholder": "Tell me about your project...",
     "getInTouch": "Get in Touch",
     "getInTouchDesc": "I'm always excited to work on new projects and collaborate with amazing people. Whether you have a project in mind or just want to chat, feel free to reach out!",
@@ -148,14 +148,14 @@
     "location": "Location",
     "followMe": "Follow Me",
     "quickResponse": "Quick Response Guaranteed",
-    "quickResponseDesc": "I usually respond to all inquiries within 24 hours. For urgent projects, feel free to call or message me directly.",
+    "quickResponseDesc": "I usually respond to all inquiries within 24 hours. For urgent projects, feel free to call or message directly.",
     "basedIn": "Based in Samarkand",
-    "basedInDesc": "I'm based in Samarkand, a historic city of Uzbekistan. I'm open to remote work worldwide and in-person meetings in Samarkand."
+    "basedInDesc": "I'm based in Samarkand, the historic city of Uzbekistan. Open to remote work worldwide and in-person meetings in Samarkand."
   },
   "seo": {
     "home": {
       "title": "Asilbek Abdunabiyev | Full-Stack Developer (Laravel & React)",
-      "description": "Portfolio website of Asilbek Abdunabiyev, a Full-Stack developer from Samarkand. Specializing in building scalable SaaS platforms with Laravel and React.",
+      "description": "Portfolio site of Asilbek Abdunabiyev, a Full-Stack developer from Samarkand, specializing in Laravel, React, and building scalable SaaS platforms.",
       "keywords": "Asilbek Abdunabiyev, Full-Stack Developer, Laravel developer, React developer, web development Uzbekistan, Samarkand developer, freelance developer"
     },
     "about": {
@@ -164,30 +164,30 @@
       "keywords": "About Asilbek, Economics Samarkand, SamSU student, Laravel expert, IT mentor Uzbekistan"
     },
     "portfolio": {
-      "title": "Projects and Portfolio | asilbek dev",
-      "description": "Browse custom web applications, SaaS platforms, and dynamic websites built by Asilbek using React, Tailwind CSS, PHP, and Laravel.",
-      "keywords": "full-stack portfolio, web application projects, SaaS developer, Laravel projects, React applications, custom website development"
+      "title": "Projects & Portfolio | asilbek dev",
+      "description": "Explore custom web applications, SaaS platforms, and dynamic websites built by Asilbek using React, Tailwind CSS, PHP, and Laravel.",
+      "keywords": "full-stack portfolio, web application projects, SaaS developer, Laravel projects, React apps, custom website development"
     },
     "services": {
-      "title": "Web Development Services | UI/UX, APIs and Full-Stack Applications",
-      "description": "Professional freelance web development services: UI/UX design, custom REST APIs, chatbot development, and complete Full-Stack web application development.",
+      "title": "Web Development Services | UI/UX, APIs, and Full-Stack Apps",
+      "description": "Professional freelance web development services: UI/UX design, custom REST APIs, chatbot development, and complete full-stack web application development.",
       "keywords": "web development services, hire freelance developer, API development, UI/UX design, chatbot developer, full-stack application development"
     },
     "contact": {
       "title": "Contact | Hire a Full-Stack Developer",
-      "description": "Want to build a digital product? Get in touch with Asilbek to discuss your next web project. Available for remote work as well.",
-      "keywords": "hire a developer, contact software engineer, freelance web developer Uzbekistan, remote full-stack developer"
+      "description": "Want to build a digital product? Contact Asilbek to discuss your next web project. Also available for remote work.",
+      "keywords": "hire developer, contact software engineer, freelance web developer Uzbekistan, remote full-stack developer"
     },
     "blog": {
-      "title": "Developer Blog | IT Articles and Tutorials by Asilbek",
-      "description": "Read Asilbek Abdunabiyev's articles, tutorials, and thoughts on full-stack development, IT life, and more.",
+      "title": "Developer Blog | IT Articles and Tutorials from Asilbek",
+      "description": "Read Asilbek Abdunabiyev's articles, tutorials, and thoughts on full-stack development, Asilbek, and IT life.",
       "keywords": "developer blog, programming tutorials, Laravel tips, React tutorials, Economics blog"
     },
     "notFound": {
       "title": "Page Not Found | asilbekdev.uz",
       "heading": "Page Not Found",
-      "description": "The page you're looking for doesn't exist or has been moved to a new address.",
-      "goHome": "Go Home",
+      "description": "The page you are looking for doesn't exist or has been moved to a new address.",
+      "goHome": "Go to Home",
       "viewPortfolio": "View Portfolio",
       "errorCode": "Error"
     }
