@@ -753,27 +753,26 @@ export const projects = [
     featured: true,
     category: "Full-Stack"
   },
-  {
-    id: 30,
-    name: {
-      en: "PHP Database Manager",
-      uz: "PHP Database Manager",
-      ru: "Менеджер базы данных PHP",
-      tj: "Менеҷери базаи додаҳо бо PHP"
-    },
-    description: {
-      en: "A lightweight and secure PHP database wrapper built with MySQLi that simplifies database queries, supports prepared statements, transaction management, and error handling.",
-      uz: "MySQLi asosida yaratilgan yengil va xavfsiz PHP database wrapper. U prepared statements, transaction boshqaruvi va qulay query metodlarini taqdim etadi.",
-      ru: "Легкий и безопасный PHP wrapper для работы с базой данных MySQLi с поддержкой prepared statements и управления транзакциями.",
-      tj: "Wrapper-и сабук барои идоракунии базаи додаҳо бо PHP ва MySQLi бо дастгирии prepared statements ва transaction."
-    },
-    image: "/images/projects/php-database-manager.png",
-    tech: ["PHP", "MySQLi", "Database Wrapper", "Prepared Statements"],
-    liveDemo: null,
-    github: "https://github.com/AsilbekCodes/php-database-manager",
-    featured: false,
-    category: "Backend"
+{
+  id: 30,
+  name: {
+    en: "MegaDrive PDF Bot",
+    uz: "MegaDrive PDF Bot",
+    ru: "MegaDrive PDF Bot",
+    tj: "MegaDrive PDF Bot"
   },
+  description: {
+    en: "A Telegram bot that converts photos into PDF files and provides a built-in file manager (MegaDrive) for storing and organizing uploaded files. Supports easy switching between upload and conversion modes via commands.",
+    uz: "Rasmlarni PDF faylga aylantiruvchi Telegram bot. Yuklangan fayllarni saqlash va boshqarish uchun o'rnatilgan MegaDrive fayl menejeriga ega. Buyruqlar orqali yuklash va konvertatsiya rejimlari o'rtasida qulay almashtirish imkonini beradi.",
+    ru: "Telegram-бот для конвертации фотографий в PDF-файлы. Имеет встроенный файловый менеджер MegaDrive для хранения и организации загруженных файлов. Поддерживает удобное переключение между режимами загрузки и конвертации с помощью команд.",
+    tj: "Боти Telegram барои табдил додани аксҳо ба файли PDF. Дорои менеҷери файлии дарунсохти MegaDrive барои нигоҳдорӣ ва ташкили файлҳои боркардашуда. Тавассути фармонҳо байни ҳолатҳои боркунӣ ва конвертатсия иваз кардан мумкин аст."
+  },
+  image: "/images/projects/megadrive-pdf-bot.png",
+  tech: ["Python"],
+  liveDemo: 'https://t.me/MegaDrivePdf_bot',
+  featured: false,
+  category: "Backend"
+},
   {
     id: 31,
     name: {
@@ -794,7 +793,27 @@ export const projects = [
     github: "https://github.com/AsilbekCodes/php-ninja-game",
     featured: false,
     category: "Full-Stack"
-  }
+  },
+  {
+  id: 32,
+  name: {
+    en: "Group Help Bot",
+    uz: "Group Help Bot",
+    ru: "Group Help Bot",
+    tj: "Group Help Bot"
+  },
+  description: {
+    en: "An advanced Telegram bot for managing groups easily and securely. Once added as an admin, it provides a wide range of moderation and management commands to help admins keep their groups organized and safe.",
+    uz: "Guruhlaringizni oson va xavfsiz boshqarish uchun mo'ljallangan ilg'or Telegram bot. Botni guruhga admin sifatida qo'shgach, adminlarga guruhni tartibli va xavfsiz saqlash uchun keng qamrovli moderatsiya va boshqaruv buyruqlari taqdim etiladi.",
+    ru: "Продвинутый Telegram-бот для лёгкого и безопасного управления группами. После добавления бота с правами администратора он предоставляет широкий набор команд модерации и управления для поддержания порядка и безопасности в группе.",
+    tj: "Боти пешрафтаи Telegram барои идоракунии осон ва бехатари гурӯҳҳо. Пас аз илова кардани бот ҳамчун админ, он маҷмӯи васеи фармонҳои модератсия ва идоракуниро барои нигоҳ доштани тартиб ва бехатарии гурӯҳ пешниҳод мекунад."
+  },
+  image: "/images/projects/grouphelpbot.png",
+  tech: ["Python"],
+  liveDemo: 'https://t.me/GHelpUzorgBot',
+  featured: false,
+  category: "Backend"
+},
 ];
 
 // Highlights
