@@ -316,27 +316,27 @@ export const projects = [
     featured: false,
     category: "Backend"
   },
-  {
-    id: 9,
-    name: {
-      en: "PHP Business Website",
-      uz: "PHP Business Website",
-      ru: "PHP Business Website",
-      tj: "PHP Business Website"
-    },
-    description: {
-      en: "A modern and responsive business website template built with PHP, HTML, and CSS. It is designed for companies to showcase services, products, and marketing content with a customizable layout.",
-      uz: "PHP, HTML va CSS yordamida yaratilgan zamonaviy va responsiv biznes veb-sayt shabloni. Kompaniyalar xizmatlari, mahsulotlari va marketing kontentlarini ko‘rsatish uchun mo‘ljallangan.",
-      ru: "Современный и адаптивный бизнес-сайт, созданный на PHP, HTML и CSS. Подходит для компаний, которые хотят представить свои услуги, продукты и маркетинговый контент.",
-      tj: "Шаблони муосири сомонаи бизнес, ки бо PHP, HTML ва CSS сохта шудааст. Барои ширкатҳо барои муаррифии хизматрасониҳо ва маҳсулот мувофиқ аст."
-    },
-    image: "/images/projects/php-business-website.png",
-    tech: ["PHP", "HTML", "CSS", "Bootstrap"],
-    liveDemo: null,
-    github: "https://github.com/AsilbekCodes/php-business-website",
-    featured: false,
-    category: "Full-Stack"
+ {
+  id: 9,
+  name: {
+    en: "Book Library",
+    uz: "Book Library",
+    ru: "Book Library",
+    tj: "Book Library"
   },
+  description: {
+    en: "A digital book library platform inspired by Open Library, an initiative of the Internet Archive. It allows users to search, browse, and explore books and cultural artifacts in a simple and organized web interface.",
+    uz: "Internet Archive tashkilotining Open Library loyihasidan ilhomlangan raqamli kitoblar kutubxonasi. Foydalanuvchilarga kitoblarni qidirish, ko'rish va oddiy hamda tartibli veb-interfeys orqali o'rganish imkonini beradi.",
+    ru: "Платформа цифровой библиотеки книг, вдохновлённая проектом Open Library от Internet Archive. Позволяет пользователям искать, просматривать и изучать книги через простой и удобный веб-интерфейс.",
+    tj: "Платформаи китобхонаи рақамӣ, ки аз лоиҳаи Open Library-и Internet Archive илҳом гирифтааст. Ба корбарон имкон медиҳад, ки китобҳоро ҷустуҷӯ, дида баромада ва тавассути интерфейси веб-сайти сода омӯзанд."
+  },
+  image: "/images/projects/book.png",
+  tech: ["PHP", "LARVEL", "MySQL", "Bootstrap"],
+  liveDemo: 'https://openlibrary.org/',
+  github: "https://github.com/AsilbekCodes/book_library",
+  featured: false,
+  category: "Full-Stack"
+},
   // {
   //   id: 10,
   //   name: {
