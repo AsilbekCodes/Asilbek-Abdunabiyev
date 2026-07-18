@@ -1029,16 +1029,16 @@ export const journey = [
   {
     year: "2026",
     title: {
-      en: "asilmedia.org SaaS Platform",
-      uz: "asilmedia.org SaaS platformasi",
-      ru: "SaaS платформа asilmedia.org",
-      tj: "Платформаи SaaS asilmedia.org"
+      en: "AsilMedia.org",
+      uz: "AsilMedia.org",
+      ru: "AsilMedia.org",
+      tj: "AsilMedia.org"
     },
     description: {
-      en: "Founded and developed asilmedia.org, a SaaS no-code website builder that allows users to create modern websites in minutes without coding.",
-      uz: "asilmedia.org SaaS no-code platformasini yaratdim, u foydalanuvchilarga kod yozmasdan bir necha daqiqada zamonaviy saytlar yaratish imkonini beradi.",
-      ru: "Создал платформу asilmedia.org — SaaS конструктор сайтов без кода, позволяющий пользователям создавать современные сайты за считанные минуты.",
-      tj: "Платформаи asilmedia.org-ро сохтaм — созандаи вебсайтҳои SaaS бе код, ки имкон медиҳад дар чанд дақиқа вебсайтҳои муосир эҷод карда шаванд."
+      en: "Founded and developed AsilMedia.org, an online platform for streaming and downloading dubbed movies, series, and cartoons in Uzbek, free and in HD quality.",
+      uz: "AsilMedia.org platformasini yaratdim — o'zbek tilidagi tarjima kinolar, seriallar va multfilmlarni bepul, HD sifatda onlayn tomosha qilish yoki yuklab olish imkonini beruvchi zamonaviy sayt.",
+      ru: "Создал платформу AsilMedia.org — сайт для бесплатного онлайн-просмотра и скачивания фильмов, сериалов и мультфильмов с озвучкой на узбекском языке в HD качестве.",
+      tj: "Платформаи AsilMedia.org-ро сохтам — сомонае барои тамошои онлайн ва боргирии ройгони филмҳо, сериалҳо ва мультфилмҳо бо тарҷумаи забони узбекӣ бо сифати HD."
     }
   },
 ];
