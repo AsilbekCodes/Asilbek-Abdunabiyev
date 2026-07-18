@@ -1036,7 +1036,7 @@ export const journey = [
     },
     description: {
       en: "Founded and developed AsilMedia.org, an online platform for streaming and downloading dubbed movies, series, and cartoons in Uzbek, free and in HD quality.",
-      uz: "AsilMedia.org platformasini yaratdim — o'zbek tilidagi tarjima kinolar, seriallar va multfilmlarni bepul, HD sifatda onlayn tomosha qilish yoki yuklab olish imkonini beruvchi zamonaviy sayt.",
+      uz: "AsilMedia.org platformasini — o'zbek tilidagi tarjima kinolar, seriallar va multfilmlarni bepul, HD sifatda onlayn tomosha qilish yoki yuklab olish imkonini beruvchi zamonaviy sayt.",
       ru: "Создал платформу AsilMedia.org — сайт для бесплатного онлайн-просмотра и скачивания фильмов, сериалов и мультфильмов с озвучкой на узбекском языке в HD качестве.",
       tj: "Платформаи AsilMedia.org-ро сохтам — сомонае барои тамошои онлайн ва боргирии ройгони филмҳо, сериалҳо ва мультфилмҳо бо тарҷумаи забони узбекӣ бо сифати HD."
     }
